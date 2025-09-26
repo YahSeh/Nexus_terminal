@@ -1,0 +1,49 @@
+Username : GHOST-7
+Role     : survivor
+Pairing code (give this to the user now and store it safely):
+  EUFY-SXXP-ZHYW
+
+  Username : RAVEN-2
+Role     : survivor
+Pairing code (give this to the user now and store it safely):
+  M7R8-8FLK-RQRA
+
+Username : EAGLE-8
+Role     : lobby
+Pairing code (give this to the user now and store it safely):
+  29GP-PZKU-6UUN
+
+Username : PHOENIX-1
+Role     : commander
+Pairing code (give this to the user now and store it safely):
+  5ERV-FFDX-NUQB
+
+Username : TEST1
+Role     : survivor
+Pairing code (give this to the user now and store it safely):
+  SPC8-6CCD-SVU2
+
+Username : TEST2
+Role     : survivor
+Pairing code (give this to the user now and store it safely):
+  UZJV-RZW8-BQ5E
+
+Username : SHADOW-5
+Role     : survivor
+Pairing code (give this to the user now and store it safely):
+  39KC-76GY-EALQ
+
+Username : VIPER-3
+Role     : survivor
+Pairing code (give this to the user now and store it safely):
+  LGQV-NTL6-WBKK
+
+Username : PHANTOM-9
+Role     : survivor
+Pairing code (give this to the user now and store it safely):
+  WHDS-RMU5-4VAG
+
+Username : ARES-1
+Role     : commander
+Pairing code (give this to the user now and store it safely):
+  RWTC-C3LC-EWHT

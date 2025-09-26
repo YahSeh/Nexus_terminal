@@ -1,0 +1,42 @@
+{
+  "GHOST-7": {
+    "scheme": "argon2",
+    "hash": "$argon2id$v=19$m=65536,t=3,p=4$T9ol2pl8sp45NsUGKBrb1g$6ciGblIr5W5YaMiXI1dAzDt8fAbhjId249N7QlDaXbg",
+    "role": "survivor"
+  },
+  "RAVEN-2": {
+    "scheme": "argon2",
+    "hash": "$argon2id$v=19$m=65536,t=3,p=4$EwhxqehVaiIuvbWdx5jg2A$gJCZLSvOYmOKv0VO4H/duHqi2jshFG4Y9SDZTjxrId0",
+    "role": "survivor"
+  },
+  "EAGLE-8": {
+    "scheme": "argon2",
+    "hash": "$argon2id$v=19$m=65536,t=3,p=4$ujJscn7pRJwY4ECaAVKziw$szzucCKw8RS/Ywu/xF/8bDzTVZaNSQAW2NXApFogMy8",
+    "role": "lobby"
+  },
+  "PHOENIX-1": {
+    "scheme": "argon2",
+    "hash": "$argon2id$v=19$m=65536,t=3,p=4$qhzXhJ/OBHSo6orv56L+Zg$Iew0efiYthEx1XVhEtmOBx/pQxJbKsCHw58g7EcPAJk",
+    "role": "commander"
+  },
+  "SHADOW-5": {
+    "scheme": "argon2",
+    "hash": "$argon2id$v=19$m=65536,t=3,p=4$Hht/nH9y5wTuS5UVdsmCxg$HUDBu99VFDDI3eb5eaUx/l6KDkEWcNX/yL6lLkpy40Q",
+    "role": "survivor"
+  },
+  "VIPER-3": {
+    "scheme": "argon2",
+    "hash": "$argon2id$v=19$m=65536,t=3,p=4$Km/2QAthwXmZERDkgc5qFQ$e0Add1l/1QDugPaBfsc0kT8giHJUUQgff4YWvdvAG1U",
+    "role": "survivor"
+  },
+  "PHANTOM-9": {
+    "scheme": "argon2",
+    "hash": "$argon2id$v=19$m=65536,t=3,p=4$FxNsXtAg7ZjMrVgPUvTFSg$y602QF91HedsSe6ES/DwF8l0SkXy3L/goVKmg6RyGBk",
+    "role": "survivor"
+  },
+  "ARES-1": {
+    "scheme": "argon2",
+    "hash": "$argon2id$v=19$m=65536,t=3,p=4$ZLBUxZ+zcRFLZCfCafaR1g$sJ2lU++0xL5MTCG9Eb0tdfNb8/Enr65+Fnul9PzRFGw",
+    "role": "commander"
+  }
+}
